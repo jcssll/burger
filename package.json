@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/jcssll/burger#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "method": "^2.0.0",
+    "mysql": "^2.11.1",
+    "override": "0.0.1"
   }
 }
